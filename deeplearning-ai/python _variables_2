@@ -1,7 +1,0 @@
-# use an underscore instead of a space
-my_score = 450
-print(f"Score: {my_score}")
-
-# or shorter
-score = 450
-print(f"Score: {score}")
